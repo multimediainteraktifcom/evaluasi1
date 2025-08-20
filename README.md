@@ -9,3 +9,5 @@ Berikut ini merupakan Evaluasi dari Praktikum Cloud Computing Repository Github.
 
 5. Konfigurasikan koneksi database dengan akun infinityfree anda.
 6. Kirimkan link web yang sudah tampil nya di LMS
+
+   <img width="1722" height="580" alt="Image" src="https://github.com/user-attachments/assets/496f1037-7aa5-449e-bad9-cd262049faaf" />
